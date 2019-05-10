@@ -1,4 +1,6 @@
-#include<stdio.h>/*greatest common divisor using recursion method*/
+/*Author: @ironsubhajit */
+/*greatest common divisor using recursion method*/
+#include<stdio.h>
 int gcd(int a, int b);
 int main()
 {
