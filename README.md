@@ -8,3 +8,4 @@
 4. Find given number prime number or not.
 5. Find Sum of the digits of given number using Recursion method.
 6. Swapping two given number.
+7.binary search.
